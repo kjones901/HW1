@@ -7,4 +7,4 @@ Additionally, semantic elements were placed to increase the accessability of the
 
 By consolidating redundant code it is now cleaner and easier to decipher while maintaining the same layout on the user end.
 
-This project was mostly done independantly, however peers Carly Staheli & Josh Davis were involved in a review process.
+This project was mostly done independantly, however, peers Carly Staheli & Josh Davis were involved in a review process.
