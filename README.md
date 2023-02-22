@@ -7,6 +7,4 @@ Additionally, semantic elements were placed to increase the accessability of the
 
 By consolidating redundant code it is now cleaner and easier to decipher while maintaining the same layout on the user end.
 
-Although the webpage is unchanged on the user side, having cleaner code will allow easier maintanance and follow up work.
-
 This project was mostly done independantly, however peers Carly Staheli & Josh Davis were involved in a review process.
